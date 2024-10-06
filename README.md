@@ -7,4 +7,4 @@
 * Power Bi
 * Tableau
 
-# Week 1: Database Setup and Initial Data Cleaning ("https://drive.google.com/drive/folders/153JnbyzhQP__gGDvMd6-FNKI1R0AsN-8?usp=drive_link") 
+# [Week 1: Database Setup and Initial Data Cleaning] ("https://drive.google.com/drive/folders/153JnbyzhQP__gGDvMd6-FNKI1R0AsN-8?usp=drive_link") 
